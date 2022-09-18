@@ -34,16 +34,6 @@ const IGProfile: React.FC = () => {
 				</p>
 				<p className='font-semibold'>© 2022INSTAGRAM</p>
 			</footer>
-
-			{/* <div className="-mt-3">
-      <IGUser showFollow />
-    </div>
-    <div className="-mt-3">
-      <IGUser showFollow />
-    </div>
-    <div className="-mt-3">
-      <IGUser showFollow />
-    </div> */}
 		</aside>
 	)
 }
