@@ -12,7 +12,7 @@ type IGPostProps = {
 const Comment: React.FC<IGPostProps> = ({ likes, commentNums, description, hashTags, createTime, account }) => {
 	return (
 		<div className='px-3'>
-			<section className='box-border flex justify-between my-3'>
+			<section className='flex justify-between my-3'>
 				<div className='flex items-center space-x-3.5'>
 					<BsHeart className='w-[22px] h-[22px]' />
 					<BsChat className='w-[22px] h-[22px] scale-x-[-1]' />
