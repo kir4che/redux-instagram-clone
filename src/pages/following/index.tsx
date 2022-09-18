@@ -11,8 +11,8 @@ const Following: React.FC = () => {
 		<>
 			<IGHeader />
 			<main className='max-w-[967px] mx-auto px-16 mobile:px-4'>
-				<p className='box-border mt-6 mb-8 text-2xl font-bold mobile:mb-6'>Following</p>
-				<div className='box-border p-4 bg-white border-[1px] border-gray-300 rounded-lg'>
+				<p className='mt-6 mb-8 text-2xl font-bold mobile:mb-6'>Following</p>
+				<div className='p-4 bg-white border-[1px] border-gray-300 rounded-lg'>
 					{friends.map((item) => {
 						const { id, account, avatar, isFollowing, name } = item
 						return (
