@@ -9,12 +9,12 @@ import App from './App'
 import './style.css'
 
 ReactDOM.render(
-	<React.StrictMode>
-		<Provider store={store}>
-			<BrowserRouter>
-				<App />
-			</BrowserRouter>
-		</Provider>
-	</React.StrictMode>,
-	document.getElementById('root')
+<React.StrictMode>
+  <Provider store={store}>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </Provider>
+</React.StrictMode>,
+document.getElementById('root')
 )
