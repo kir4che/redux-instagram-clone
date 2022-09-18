@@ -8,7 +8,7 @@ const IGProfile: React.FC = () => {
 	const friends = friendReducer.friends.slice(0, 3)
 
 	return (
-		<aside className='box-border py-5 ml-8'>
+		<aside className='py-5 ml-8'>
 			<IGUser account='kir4che' name='🍒' avatar='/images/avatar.png' size='medium' />
 			<div className='flex items-center justify-between my-4 font-bold'>
 				<p className='text-[15px] text-[#8E8E8E]'>推薦用戶</p>
