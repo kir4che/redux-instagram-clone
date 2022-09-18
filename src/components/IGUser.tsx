@@ -23,7 +23,7 @@ const IGUser: React.FC<IGUserProps> = memo(
 		}
 
 		return (
-			<div className='flex justify-between items-center h-[58px] box-border'>
+			<div className='flex justify-between items-center h-[58px]'>
 				<div className='flex items-center space-x-3'>
 					<div
 						className={`${size === 'medium' ? 'w-16 h-16 ring-[1px] border-2 border-white ring-gray-300' : 'w-8 h-8'} ${
