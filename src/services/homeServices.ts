@@ -21,7 +21,7 @@ type IGStory = {
 // 建立 RTKQ 的 API service，並取名為 homeApi。
 export const homeApi = createApi({
 	reducerPath: 'homeApi',
-	baseQuery: fetchBaseQuery({ baseUrl: 'https://source.cloud.google.com/bruce-instagram-clone-api/github_kir4che_fake-ins-api' }),
+	baseQuery: fetchBaseQuery({ baseUrl: 'https://fake-ins-api-production.up.railway.app/' }),
 	endpoints: (builder) => ({
 		getIGPosts: builder.query<IGPost[], number | 'all'>({
 			query: (id) => {
