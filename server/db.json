@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "account": "max_999",
+      "avatar": "/images/avatars/a1.png",
+      "photo": "/images/posts/main1.png",
+      "likes": 14,
+      "description": "Hi~",
+      "hashTags": "#beauty #woman",
+      "commentNums": 3,
+      "createTime": "1 小時前"
+    },
+    {
+      "id": 2,
+      "account": "__0831_xxx__",
+      "avatar": "/images/avatars/a2.png",
+      "photo": "/images/posts/main2.png",
+      "likes": 67,
+      "description": "超漂亮！！！",
+      "hashTags": "",
+      "commentNums": 6,
+      "createTime": "5 小時前"
+    },
+    {
+      "id": 3,
+      "account": "gogogo_0214",
+      "avatar": "/images/avatars/a3.png",
+      "photo": "/images/posts/main3.png",
+      "likes": 74,
+      "description": "貓咪欸",
+      "hashTags": "",
+      "commentNums": 12,
+      "createTime": "6 小時前"
+    },
+    {
+      "id": 4,
+      "account": "f0cus480",
+      "avatar": "/images/avatars/a4.png",
+      "photo": "/images/posts/main4.png",
+      "likes": 45,
+      "description": "出去玩 超級開心！",
+      "hashTags": "",
+      "commentNums": 4,
+      "createTime": "7 小時前"
+    },
+    {
+      "id": 5,
+      "account": "jennette2920",
+      "avatar": "/images/avatars/a5.png",
+      "photo": "/images/posts/main5.png",
+      "likes": 98,
+      "description": "我家的貓好可愛～",
+      "hashTags": "#cat #cute",
+      "commentNums": 14,
+      "createTime": "1 天前"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "name": "Max",
+      "avatar": "/images/avatars/a1.png"
+    },
+    {
+      "id": 2,
+      "name": "fm",
+      "avatar": "/images/avatars/a2.png"
+    },
+    {
+      "id": 3,
+      "name": "Joanne",
+      "avatar": "/images/avatars/a3.png"
+    },
+    {
+      "id": 4,
+      "name": "Focus",
+      "avatar": "/images/avatars/a4.png"
+    },
+    {
+      "id": 5,
+      "name": "jenny",
+      "avatar": "/images/avatars/a5.png"
+    },
+    {
+      "id": 6,
+      "name": "Alvin",
+      "avatar": "/images/avatars/a6.png"
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "avatar": "/images/avatars/a7.png"
+    },
+    {
+      "id": 8,
+      "name": "rance",
+      "avatar": "/images/avatars/a8.png"
+    },
+    {
+      "id": 9,
+      "name": "Bruce",
+      "avatar": "/images/avatars/a9.png"
+    },
+    {
+      "id": 10,
+      "name": "Amy",
+      "avatar": "/images/avatars/a10.png"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+.vite/deps/_metadata.json
+.vite/deps/package.json
